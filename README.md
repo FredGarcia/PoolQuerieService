@@ -1,2 +1,2 @@
 # TypeScriptProjects
-Typescript and Node for microservices
+Typescript with Node for microservices
